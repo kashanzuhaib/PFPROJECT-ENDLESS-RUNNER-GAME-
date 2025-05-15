@@ -1,0 +1,20 @@
+Initial commit: added base game loop and map rendering
+
+Implemented player movement and jump mechanics
+
+Added obstacle generation and collision detection logic
+
+Integrated scoring system and coin collection
+
+Introduced increasing difficulty based on distance
+
+Added computer-controlled player logic after 2000 meters
+
+Implemented life system and game-over conditions
+
+Refactored code: cleaned up repeated logic and added comments
+
+Added instructions and controls to README
+
+Final testing and bug fixes before submission
+
